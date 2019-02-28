@@ -1,5 +1,5 @@
 ## Archived
-This project is no longer under active development.
+The `serverless-localstack` project has been passed to [localstack org](https://github.com/localstack/serverless-localstack). This repository is no longer under active development.
 
 # serverless-localstack [![Build Status](https://travis-ci.org/temyers/serverless-localstack.svg?branch=master)](https://travis-ci.org/temyers/serverless-localstack)
 
